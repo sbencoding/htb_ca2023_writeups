@@ -85,7 +85,7 @@ std::fs::{impl#5}::read_to_end(&local_430,&local_6bc,&local_630);
 The file we have just written to, is being read back!
 Then some decoding/decrypting is about to take place
 
-```
+```c
 base64::engine::Engine::decode(&local_430,&DAT_001522c5,&local_618);
 // ...
 
